@@ -1,0 +1,31 @@
+{
+  "streams": [
+    {
+      "title": "First Stream Ever",
+      "description": "Multi\nLine\nDescription",
+      "id": 1
+    },
+    {
+      "title": "***LIVE*** DID HE JUST DO THAT?!?!? MUST WATCH!!! (STORYTIME)",
+      "description": "How to clickbait [MASTER COURSE] (not live actually)",
+      "id": 2
+    },
+    {
+      "title": "Edited Title",
+      "description": "I edited this desc",
+      "id": 3
+    },
+    {
+      "title": "Programmatic navigation",
+      "description": "This form should disappear and navigate back to the stream lists after pressing submit.",
+      "userId": "101919176227162250373",
+      "id": 4
+    },
+    {
+      "title": "Live component reusing",
+      "description": "Refactoring CreateStream and adding a common StreamForm component",
+      "userId": "101919176227162250373",
+      "id": 6
+    }
+  ]
+}
